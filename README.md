@@ -1,4 +1,5 @@
-#IMDB-web_scarping
+# IMDB-web_scarping
+
 Overview
 This script is designed to scrape the IMDb website for data on the top 250 movies, parse the relevant information, and save it into a CSV file. The script extracts the movie title, rank, year of release, star cast, and IMDb rating.
 
